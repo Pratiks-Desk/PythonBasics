@@ -1,0 +1,4 @@
+Name    Age Gender
+Sima    19  F
+Minal S 20  F
+Savita  30  F

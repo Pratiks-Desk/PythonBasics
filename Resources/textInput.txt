@@ -1,0 +1,8 @@
+Name    Age Gender
+Ajay    25  M
+Sima    19  F
+Krish   22  M
+Ajay    26  M
+Minal S 20  F
+Savita  30  F
+Rajesh  26  M
